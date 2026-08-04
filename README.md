@@ -1,2 +1,4 @@
-# cpp-queue-impl-99
+# Cpp Queue Impl 99
+
 Standard enqueue and dequeue methods in C++.
+
